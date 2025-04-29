@@ -1,0 +1,14 @@
+bs4
+rich
+httpie
+cython
+certifi
+blessed
+requests
+inquirer
+pypasser
+dns-client
+cloudscraper
+fake-useragent
+beautifulsoup4
+requests-toolbelt
