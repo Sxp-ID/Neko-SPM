@@ -10,8 +10,6 @@ inquirer
 pypasser
 rich-cli
 dns-client
-pytesseract
 cloudscraper
 fake-useragent
 beautifulsoup4
-requests-toolbelt
